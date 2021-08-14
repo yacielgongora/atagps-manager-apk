@@ -1,1 +1,1 @@
-# atagps-manager-apk
+ATAGPS manager apk for android client
